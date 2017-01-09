@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "cruaud"
+  "format": "cruaud",
+  "resources": {
+    "cruaud/Cruaud_et_al2012_Appendix_S2-wasp_material.csv": "Cruaud_et_al2012_Appendix_S2-wasp_material.csv"
+  }
 }
